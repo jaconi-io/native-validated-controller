@@ -1,1 +1,1 @@
-# native-vaidated-controller
+# native-validated-controller
